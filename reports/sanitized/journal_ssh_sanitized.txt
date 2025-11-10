@@ -1,0 +1,182 @@
+sep 19 01:00:36 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+sep 19 01:00:36 Micky sshd[804]: Server listening on 192.0.2.10 port 22.
+sep 19 01:00:36 Micky sshd[804]: Server listening on :: port 22.
+sep 19 01:00:36 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+sep 19 01:01:17 Micky sshd[804]: Received signal 15; terminating.
+sep 19 01:01:17 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+sep 19 01:01:17 Micky systemd[1]: ssh.service: Deactivated successfully.
+sep 19 01:01:17 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot a26c8b13f63044e49286ff14add0ef3e --
+sep 23 22:25:48 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+sep 23 22:25:48 Micky sshd[851]: Server listening on 192.0.2.10 port 22.
+sep 23 22:25:48 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+sep 23 22:25:48 Micky sshd[851]: Server listening on :: port 22.
+-- Boot 73cf0b569a1c4cac98b3ae719fc97725 --
+sep 25 23:07:31 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+sep 25 23:07:31 Micky sshd[792]: Server listening on 192.0.2.10 port 22.
+sep 25 23:07:31 Micky sshd[792]: Server listening on :: port 22.
+sep 25 23:07:31 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot f6803fcb38fc47ccb01d44eb38964c21 --
+sep 30 12:33:01 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+sep 30 12:33:01 Micky sshd[805]: Server listening on 192.0.2.10 port 22.
+sep 30 12:33:01 Micky sshd[805]: Server listening on :: port 22.
+sep 30 12:33:01 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 71252bb5706d4e3d92f06ca970c8dc2e --
+oct 02 23:13:28 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+oct 02 23:13:28 Micky sshd[800]: Server listening on 192.0.2.10 port 22.
+oct 02 23:13:28 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+oct 02 23:13:28 Micky sshd[800]: Server listening on :: port 22.
+oct 03 01:02:16 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+oct 03 01:02:16 Micky sshd[800]: Received signal 15; terminating.
+oct 03 01:02:16 Micky systemd[1]: ssh.service: Deactivated successfully.
+oct 03 01:02:16 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 8b84559a0135488191c38dbcbd424c5e --
+oct 14 22:58:41 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+oct 14 22:58:41 Micky sshd[798]: Server listening on 192.0.2.10 port 22.
+oct 14 22:58:41 Micky sshd[798]: Server listening on :: port 22.
+oct 14 22:58:41 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 9d7ad1c3379c44aa9279faba29fbb524 --
+nov 03 20:36:25 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 03 20:36:25 Micky sshd[820]: Server listening on 192.0.2.10 port 22.
+nov 03 20:36:25 Micky sshd[820]: Server listening on :: port 22.
+nov 03 20:36:25 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 03 20:44:50 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 03 20:44:50 Micky sshd[820]: Received signal 15; terminating.
+nov 03 20:44:50 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 03 20:44:50 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 1a9c6e6c60664fa0b3f8436f3e8af7ae --
+nov 03 20:44:53 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 03 20:44:53 Micky sshd[811]: Server listening on 192.0.2.10 port 22.
+nov 03 20:44:53 Micky sshd[811]: Server listening on :: port 22.
+nov 03 20:44:53 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 03 21:08:06 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 03 21:08:06 Micky sshd[811]: Received signal 15; terminating.
+nov 03 21:08:06 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 03 21:08:06 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 05d999d69da749c0bf4f4b14fe63bf0a --
+nov 04 12:38:33 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 04 12:38:33 Micky sshd[882]: Server listening on 192.0.2.10 port 22.
+nov 04 12:38:33 Micky sshd[882]: Server listening on :: port 22.
+nov 04 12:38:33 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 044afdc8877c406eba3d3f9b2893ed46 --
+nov 05 12:55:45 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 05 12:55:45 Micky sshd[828]: Server listening on 192.0.2.10 port 22.
+nov 05 12:55:45 Micky sshd[828]: Server listening on :: port 22.
+nov 05 12:55:45 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 05 13:57:10 Micky sshd[828]: Received signal 15; terminating.
+nov 05 13:57:10 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 05 13:57:10 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 05 13:57:10 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 0729b3c3febf4717bb13cb45b8b43737 --
+nov 06 12:03:38 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 06 12:03:38 Micky sshd[812]: Server listening on 192.0.2.10 port 22.
+nov 06 12:03:38 Micky sshd[812]: Server listening on :: port 22.
+nov 06 12:03:38 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot a1f97154e5a344799f4c0eea4f198639 --
+nov 06 12:25:29 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 06 12:25:29 Micky sshd[807]: Server listening on 192.0.2.10 port 22.
+nov 06 12:25:29 Micky sshd[807]: Server listening on :: port 22.
+nov 06 12:25:29 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 06 12:31:02 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 06 12:31:02 Micky sshd[807]: Received signal 15; terminating.
+nov 06 12:31:02 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 06 12:31:02 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 9269ea1ec1624ad38549f54a3ed3c1c8 --
+nov 06 12:34:43 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 06 12:34:43 Micky sshd[812]: Server listening on 192.0.2.10 port 22.
+nov 06 12:34:43 Micky sshd[812]: Server listening on :: port 22.
+nov 06 12:34:43 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 06 14:09:05 Micky sshd[812]: Received signal 15; terminating.
+nov 06 14:09:05 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 06 14:09:05 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 06 14:09:05 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot bba095841c7f4783b8dc48e1486ff072 --
+nov 06 20:32:10 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 06 20:32:10 Micky sshd[814]: Server listening on 192.0.2.10 port 22.
+nov 06 20:32:10 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 06 20:32:10 Micky sshd[814]: Server listening on :: port 22.
+-- Boot a957370509b14bfd996c3cc0d1826c11 --
+nov 06 21:41:03 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 06 21:41:03 Micky sshd[820]: Server listening on 192.0.2.10 port 22.
+nov 06 21:41:03 Micky sshd[820]: Server listening on :: port 22.
+nov 06 21:41:03 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 1e91e545bc0c4a32a04199fea3758b02 --
+nov 07 12:01:03 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 07 12:01:04 Micky sshd[884]: Server listening on 192.0.2.10 port 22.
+nov 07 12:01:04 Micky sshd[884]: Server listening on :: port 22.
+nov 07 12:01:04 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 07 13:56:57 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 07 13:56:57 Micky sshd[884]: Received signal 15; terminating.
+nov 07 13:56:57 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 07 13:56:57 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 5f3bd05cdaff424fa77411f96df1c7ef --
+nov 07 13:59:13 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 07 13:59:13 Micky sshd[808]: Server listening on 192.0.2.10 port 22.
+nov 07 13:59:13 Micky sshd[808]: Server listening on :: port 22.
+nov 07 13:59:13 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 07 14:01:28 Micky sshd[808]: Received signal 15; terminating.
+nov 07 14:01:28 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 07 14:01:28 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 07 14:01:28 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 8826ff36156d43e5a4ce35997c0a4449 --
+nov 07 14:03:01 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 07 14:03:02 Micky sshd[864]: Server listening on 192.0.2.10 port 22.
+nov 07 14:03:02 Micky sshd[864]: Server listening on :: port 22.
+nov 07 14:03:02 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 9e85b7d8452e4f30ba4ced718fe4a989 --
+nov 07 14:14:21 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 07 14:14:21 Micky sshd[879]: Server listening on 192.0.2.10 port 22.
+nov 07 14:14:21 Micky sshd[879]: Server listening on :: port 22.
+nov 07 14:14:21 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 07 14:18:14 Micky sshd[879]: Received signal 15; terminating.
+nov 07 14:18:14 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 07 14:18:14 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 07 14:18:14 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot bb145ab81636455bb67cde04864e7bb6 --
+nov 07 14:20:00 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 07 14:20:00 Micky sshd[978]: Server listening on 192.0.2.10 port 22.
+nov 07 14:20:00 Micky sshd[978]: Server listening on :: port 22.
+nov 07 14:20:00 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 2daba96450eb46bf8b98e67098cfb0c0 --
+nov 07 21:13:23 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 07 21:13:23 Micky sshd[1013]: Server listening on 192.0.2.10 port 22.
+nov 07 21:13:23 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 07 21:13:23 Micky sshd[1013]: Server listening on :: port 22.
+-- Boot 0a7f33d95a8d44c581f4855476e97061 --
+nov 10 12:49:35 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 10 12:49:36 Micky sshd[1022]: Server listening on 192.0.2.10 port 22.
+nov 10 12:49:36 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 10 12:49:36 Micky sshd[1022]: Server listening on :: port 22.
+nov 10 13:07:00 Micky sshd[1022]: Received signal 15; terminating.
+nov 10 13:07:00 Micky systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+nov 10 13:07:00 Micky systemd[1]: ssh.service: Deactivated successfully.
+nov 10 13:07:00 Micky systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 8ede8b34eb244442aadcb6be55745237 --
+nov 10 20:48:00 Micky systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+nov 10 20:48:00 Micky sshd[1036]: Server listening on 192.0.2.10 port 22.
+nov 10 20:48:00 Micky systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+nov 10 20:48:00 Micky sshd[1036]: Server listening on :: port 22.
+nov 10 20:58:11 Micky sshd-session[3056]: Invalid user usuario_inexistente from 192.0.2.10 port 43836
+nov 10 20:58:11 Micky sshd-session[3056]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43836 [preauth]
+nov 10 20:58:11 Micky sshd-session[3058]: Invalid user usuario_inexistente from 192.0.2.10 port 43842
+nov 10 20:58:11 Micky sshd-session[3058]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43842 [preauth]
+nov 10 20:58:11 Micky sshd-session[3060]: Invalid user usuario_inexistente from 192.0.2.10 port 43858
+nov 10 20:58:11 Micky sshd-session[3060]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43858 [preauth]
+nov 10 20:58:11 Micky sshd-session[3062]: Invalid user usuario_inexistente from 192.0.2.10 port 43862
+nov 10 20:58:11 Micky sshd-session[3062]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43862 [preauth]
+nov 10 20:58:11 Micky sshd-session[3064]: Invalid user usuario_inexistente from 192.0.2.10 port 43872
+nov 10 20:58:11 Micky sshd-session[3064]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43872 [preauth]
+nov 10 20:58:11 Micky sshd-session[3066]: Invalid user usuario_inexistente from 192.0.2.10 port 43878
+nov 10 20:58:11 Micky sshd-session[3066]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43878 [preauth]
+nov 10 20:58:11 Micky sshd-session[3068]: Invalid user usuario_inexistente from 192.0.2.10 port 43892
+nov 10 20:58:11 Micky sshd-session[3068]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43892 [preauth]
+nov 10 20:58:12 Micky sshd-session[3070]: Invalid user usuario_inexistente from 192.0.2.10 port 43906
+nov 10 20:58:12 Micky sshd-session[3070]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43906 [preauth]
+nov 10 20:58:12 Micky sshd-session[3072]: Invalid user usuario_inexistente from 192.0.2.10 port 43908
+nov 10 20:58:12 Micky sshd-session[3072]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43908 [preauth]
+nov 10 20:58:12 Micky sshd-session[3074]: Invalid user usuario_inexistente from 192.0.2.10 port 43912
+nov 10 20:58:12 Micky sshd-session[3074]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43912 [preauth]
+nov 10 20:58:12 Micky sshd-session[3076]: Invalid user usuario_inexistente from 192.0.2.10 port 43928
+nov 10 20:58:12 Micky sshd-session[3076]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43928 [preauth]
+nov 10 20:58:12 Micky sshd-session[3078]: Invalid user usuario_inexistente from 192.0.2.10 port 43930
+nov 10 20:58:12 Micky sshd-session[3078]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43930 [preauth]

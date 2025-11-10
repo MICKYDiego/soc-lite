@@ -1,0 +1,26 @@
+=== EVIDENCIA PARA 192.0.2.10 en 2025-11-10 21:05:48 (intentos: 24) ===
+159:nov 10 20:58:11 Micky sshd-session[3056]: Invalid user usuario_inexistente from 192.0.2.10 port 43836
+160:nov 10 20:58:11 Micky sshd-session[3056]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43836 [preauth]
+161:nov 10 20:58:11 Micky sshd-session[3058]: Invalid user usuario_inexistente from 192.0.2.10 port 43842
+162:nov 10 20:58:11 Micky sshd-session[3058]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43842 [preauth]
+163:nov 10 20:58:11 Micky sshd-session[3060]: Invalid user usuario_inexistente from 192.0.2.10 port 43858
+164:nov 10 20:58:11 Micky sshd-session[3060]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43858 [preauth]
+165:nov 10 20:58:11 Micky sshd-session[3062]: Invalid user usuario_inexistente from 192.0.2.10 port 43862
+166:nov 10 20:58:11 Micky sshd-session[3062]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43862 [preauth]
+167:nov 10 20:58:11 Micky sshd-session[3064]: Invalid user usuario_inexistente from 192.0.2.10 port 43872
+168:nov 10 20:58:11 Micky sshd-session[3064]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43872 [preauth]
+169:nov 10 20:58:11 Micky sshd-session[3066]: Invalid user usuario_inexistente from 192.0.2.10 port 43878
+170:nov 10 20:58:11 Micky sshd-session[3066]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43878 [preauth]
+171:nov 10 20:58:11 Micky sshd-session[3068]: Invalid user usuario_inexistente from 192.0.2.10 port 43892
+172:nov 10 20:58:11 Micky sshd-session[3068]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43892 [preauth]
+173:nov 10 20:58:12 Micky sshd-session[3070]: Invalid user usuario_inexistente from 192.0.2.10 port 43906
+174:nov 10 20:58:12 Micky sshd-session[3070]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43906 [preauth]
+175:nov 10 20:58:12 Micky sshd-session[3072]: Invalid user usuario_inexistente from 192.0.2.10 port 43908
+176:nov 10 20:58:12 Micky sshd-session[3072]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43908 [preauth]
+177:nov 10 20:58:12 Micky sshd-session[3074]: Invalid user usuario_inexistente from 192.0.2.10 port 43912
+178:nov 10 20:58:12 Micky sshd-session[3074]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43912 [preauth]
+179:nov 10 20:58:12 Micky sshd-session[3076]: Invalid user usuario_inexistente from 192.0.2.10 port 43928
+180:nov 10 20:58:12 Micky sshd-session[3076]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43928 [preauth]
+181:nov 10 20:58:12 Micky sshd-session[3078]: Invalid user usuario_inexistente from 192.0.2.10 port 43930
+182:nov 10 20:58:12 Micky sshd-session[3078]: Connection closed by invalid user usuario_inexistente 192.0.2.10 port 43930 [preauth]
+
