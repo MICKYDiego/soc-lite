@@ -79,21 +79,7 @@ Ejemplo de detección:
 Resultado del bloqueo:
 sudo ipset list brute_blacklist
 sudo iptables -L INPUT -n --line-numbers | grep brute_blacklist
-🧠 Conceptos aplicados
 
-Proceso vs Servicio:
-Un proceso es una instancia en ejecución de un programa.
-Un servicio es un proceso que corre en segundo plano (daemon), como sshd o rsyslogd.
-
-Protocolo SSH:
-Protocolo seguro para conexión remota. Vulnerable a ataques de fuerza bruta si no se limita el acceso.
-
-TCP vs UDP:
-TCP garantiza entrega y control de conexión (usado por SSH).
-UDP es rápido, sin control de sesión (usado por DNS, streaming, etc).
-
-Privilegios root:
-El script usa privilegios elevados para poder modificar iptables y ipset.
 🧩 Posibles mejoras
 
 Implementar detección de intentos distribuidos (varias IPs atacantes).
